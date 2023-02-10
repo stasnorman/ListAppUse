@@ -1,0 +1,8 @@
+C:\Users\Медиацентр\source\repos\ListApplication\ListApplication\bin\Debug\ListApplication.exe.config
+C:\Users\Медиацентр\source\repos\ListApplication\ListApplication\bin\Debug\ListApplication.exe
+C:\Users\Медиацентр\source\repos\ListApplication\ListApplication\bin\Debug\ListApplication.pdb
+C:\Users\Медиацентр\source\repos\ListApplication\ListApplication\obj\Debug\ListApplication.csproj.AssemblyReference.cache
+C:\Users\Медиацентр\source\repos\ListApplication\ListApplication\obj\Debug\ListApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Медиацентр\source\repos\ListApplication\ListApplication\obj\Debug\ListApplication.csproj.CoreCompileInputs.cache
+C:\Users\Медиацентр\source\repos\ListApplication\ListApplication\obj\Debug\ListApplication.exe
+C:\Users\Медиацентр\source\repos\ListApplication\ListApplication\obj\Debug\ListApplication.pdb
